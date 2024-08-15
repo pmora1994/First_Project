@@ -41,6 +41,6 @@ Potential Next Steps:
 3. Regional Focus: Conduct in-depth studies of specific coastal areas to provide targeted recommendations for adaptation and policy.
 Other Sources:
 Pacific Ocean:
-- https://www.soest.hawaii.edu/soestwp/announce/news/study-reveals-how-volcanic-eruptions-affect-el-nino/
-- https://www.climate.gov/news-features/blogs/enso/has-climate-change-already-affected-enso#:~:text=The%20warmer%20surface%20layer%20enhances,and%20La%20Ni%C3%B1a%20more%20extreme.
-- https://sealevel.nasa.gov/faq/10/how-does-el-nino-fit-into-the-sea-level-rise-picture/
+- University of Hawaiʻi at Mānoa, School of Ocean and Earth Science and Technology. (2023). Study reveals how volcanic eruptions affect El Niño. Retrieved from soest.hawaii.edu
+- National Oceanic and Atmospheric Administration (NOAA). (2020). Has climate change already affected El Niño and La Niña?. Retrieved from climate.gov
+- NASA. (n.d.). How does El Niño fit into the sea level rise picture? Retrieved from sealevel.nasa.gov
